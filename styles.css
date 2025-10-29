@@ -89,12 +89,21 @@ p {
 
 .advanced-search-wrapper {
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
   padding: 20px;
 }
 
+.adv-icon {
+  height: 30%;
+  width: auto;
+  max-height: 300px;
+}
+
 .advanced-search-container {
+  align-items: start;
+  justify-items: start;
   width: 80%;
   max-width: 600px;
   background-color: #222;
