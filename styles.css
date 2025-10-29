@@ -134,6 +134,7 @@ p {
   color: #fff;
   background-color: #333;
   border: 1px solid #575757;
+  border-radius: 2px;
   padding: 10px;
   font-size: 1rem;
   flex: 1;
@@ -144,7 +145,7 @@ p {
     color: #fff;
     background-color: #409cff;
     border: transparent;
-    border-radius: 6px;
+    border-radius: 2px;
     font-size: 1rem;
     margin: 6px;
     padding: 10px;
