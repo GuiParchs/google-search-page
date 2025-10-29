@@ -89,7 +89,7 @@ p {
 
 .advanced-search-wrapper {
   display: flex;
-  justify-content: flex-start;  /* center the form horizontally */
+  justify-content: flex-start;
   align-items: flex-start;
   padding: 20px;
 }
@@ -110,8 +110,8 @@ p {
 
 .advanced-search-terms {
   display: flex;
-  flex-direction: column;  /* stack each term vertically */
-  gap: 15px;               /* space between each label-input pair */
+  flex-direction: column;
+  gap: 15px;
   margin-bottom: 20px;
   margin-left: 40px;
   width: 93%;
